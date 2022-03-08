@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.microservices.entitiesResponseModel.call.shopping.ShoppingOfferListResponse;
-import com.microservices.serviceInteface.call.shopping.CallShoppingGeneralServiceLayer;
+import com.microservices.entities.ResponseModel.call.shopping.ShoppingOfferListResponse;
+import com.microservices.services.serviceInterface.call.shopping.CallShoppingGeneralServiceLayer;
 
 
 /**

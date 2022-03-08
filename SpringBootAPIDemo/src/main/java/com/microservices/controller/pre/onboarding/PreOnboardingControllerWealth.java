@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.microservices.entitiesModel.pre.onbaording.SignupLoginCustomerDetails;
-import com.microservices.entitiesResponseModelGeneral.GeneralResponse;
-import com.microservices.serviceInterface.pre.onboarding.PreOnboardingWealthServiceLayer;
+import com.microservices.entities.Model.pre.onbaording.SignupLoginCustomerDetails;
+import com.microservices.entities.ResponseModelGeneral.GeneralResponse;
+import com.microservices.services.serviceInterface.pre.onboarding.PreOnboardingWealthServiceLayer;
 
 /**
  * @author 33000005
